@@ -1,0 +1,692 @@
+{
+    "name": "IPA Library",
+    "identifier": "ipalibrary",
+    "sourceLinkTitle": "@fcksunction",
+    "sourceAuthor" : "IPA Library",
+    "sourceUrlLink" : "https://t.me/fcksanction",
+    "sourceImage": "https://i.ibb.co/m80R715/719-BBC6-F-FDB1-4-EF9-809-F-703-B07-F4-F9-D9.jpg",
+    "appCategories": [
+        "IPA Library Source"
+    ],
+    "apps": [
+
+
+        {
+            "name": "GBox",
+            "version": "3.6.7",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Приложение для подписи сертификатом разработчика.",
+            "versionDate": "2022-09-16T23:50:00+0300",
+            "iconURL": "https://gbox.run/Public/resources/icon256.png",
+            "size":  6396314,
+        },
+
+
+        {
+            "name": "ESign",
+            "version": "4.6.4",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Приложение для подписи сертификатом разработчика.",
+            "versionDate": "2022-10-08T23:20:00+0300",
+            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+            "size":  7444890,
+        },
+
+
+        {
+            "name": "Free VPN",
+            "version": "7.3",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взлом на Premium! Для активации «покупаем» подписку и отказываемся от ввода Apple ID! \n\nРаботает ТОЛЬКО с расширенными сертификатами! \nДостойная замена Signal Secure VPN!",
+            "versionDate": "2022-09-24T22:45:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/62/b6/9e62b66a-58fe-dd54-d1f1-7354323c6f7d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  18035507,
+        },
+
+
+        {
+            "name": "Star VPN Premium",
+            "version": "7.3",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Установка через сертификат(расширенный) с включенными правами VPN. \n\nОдин из лучших VPN сервисов с разблокированными премиум возможностями!",
+            "versionDate": "2022-09-24T22:50:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/11/6d/d2/116dd2dc-a83f-df41-cf42-438ef0bc7b1d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  6710886,
+        },
+
+
+        {
+            "name": "VPN Bucks | Hack",
+            "version": "1.9.6",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взломана подписка! Окно о покупке игнорируем!\n\nСамое быстрое и безопасное VPN приложение в мире!",
+            "versionDate": "2022-09-27T03:11:00+0300",
+            "iconURL": "https://i.ibb.co/FHvqLZ8/EDB4-EA20-4-D81-4-F9-F-BA53-247-B63389-DC7.png",
+            "size":  23697817,
+        },
+
+
+        {
+            "name": "Aloha VPN Pro",
+            "version": "2.0.0",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взлом на покупки! Для активации «покупаем» премиум и отказываемся от ввода Apple ID! Для использования у вас должен быть сертификат с расширенными правами. \n\nБыстрый, бесплатный, полноценный веб браузер с фокусом на приватности и безопасности.",
+            "versionDate": "2022-09-24T22:50:00+0300",
+            "iconURL": "https://i.ibb.co/DMHLN5P/C1711-C16-3-A9-A-442-A-9-B65-8-E67-A3-DE6-FA1.jpg",
+            "size":  108527616,
+        },
+
+
+        {
+            "name": "GTA: Vice City",
+            "version": "1.8",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Добро пожаловать в Вайс-сити, город пороков. Добро пожаловать снова в 80-е.",
+            "versionDate": "2022-09-16T18:45:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/57/01/fd/5701fd72-a6a2-35db-0710-30a0fb014cc6/AppIcon-0-1x_U007emarketing-85-220-4.png/246x0w.png",
+            "size":  978868813,
+        },
+
+
+        {
+            "name": "GTA III",
+            "version": "1.5",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Знаменитая GTA 3 со встроенным русификатором!",
+            "versionDate": "2022-09-17T16:15:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/c3/a1/b8c3a11d-c7cc-d9a6-7120-880c3ad4412f/AppIcon-0-1x_U007emarketing-85-220-4.png/246x0w.png",
+            "size":  774058803,
+        },
+
+
+        {
+            "name": "GTA: San Andreas",
+            "version": "2.2",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "GTA SA в вашем кармане! Одна из лучших игр в открытом мире!",
+            "versionDate": "2022-09-17T16:15:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/6d/92/8a/6d928aa4-847e-5692-8c07-72f772b271a7/AppIcon-2-0-1x_U007emarketing-0-85-220-10.png/246x0w.png",
+            "size":  2254857830,
+        },
+
+
+       {
+            "name": "GTA: Liberty City Stories",
+            "version": "1.2",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Приготовьтесь вернуться на Восточное побережье, Grand Theft Auto: Liberty City Stories.",
+            "versionDate": "2022-09-19T23:27:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cd/b7/9d/cdb79d60-9276-e0a3-550c-aa20f0317d1f/AppIcon-0-1x_U007emarketing-0-85-220-10.png/492x0w.png",
+            "size":  1309965025,
+        },
+
+
+        {
+            "name": "GTA: Chinatown Wars",
+            "version": "4.5",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "После убийства своего отца у Хуана Ли есть простая миссия: доставить древний меч своему дяде Кенни, чтобы гарантировать, что его семья сохранит контроль над бандами Триады в Либерти-Сити.",
+            "versionDate": "2022-09-20T00:30:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/f1/36/07/f13607db-c840-88c8-40bf-d57943274070/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/492x0w.png",
+            "size":  872729805,
+        },
+
+
+        {
+            "name": "Max Payne",
+            "version": "1.4.10",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Полицейский, работавший под прикрытием, обвинен в убийстве. Теперь ему остается только одно - бежать от бывших коллег и разъяренных бандитов.",
+            "versionDate": "2022-09-17T15:45:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/32/5b/d5/325bd58b-0f0a-611c-d88e-275ca001d1ae/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.png",
+            "size":  1814623682,
+        },
+
+
+        {
+            "name": "Bully: Anniversary Edition",
+            "version": "1.0.36",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Вам предстоит помочь пятнадцатилетнему Джимми Хопкинсу подняться в иерархии прогнившей изнутри частной Булвортской школы.",
+            "versionDate": "2022-09-17T15:45:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/29/b5/31/29b5314a-428e-725e-e24b-10322370dc0c/AppIcon-0-1x_U007emarketing-0-85-220-0-6.png/246x0w.png",
+            "size":  2415919104,
+        },
+
+
+        {
+            "name": "Hello Neighbor | Hack",
+            "version": "2.1.4",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "«Покупаем» полную версию и отказываемся от ввода Apple ID! \n\nHello Neighbor - игра в жанре хоррор, в которой игроку нужно проникнуть в соседский дом и узнать, что скрывает его зловещий сосед. Твой противник - искусственный интеллект, который учится на всех твоих действиях: любишь забираться в дом через окно? - Не попадись в капкан. Пытаешься убежать? - Он найдёт способ перехватить тебя.",
+            "versionDate": "2022-10-14T00:05:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/57/7f/4e/577f4e98-77ac-79f8-2d7c-17144ef8a9c3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  1524713391,
+        },
+
+
+        {
+            "name": "Hello Neighbor Hide & Seek | Hack",
+            "version": "1.9",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "«Покупаем» полную версию и отказываемся от ввода Apple ID! \n\n Hello Neighbor: Hide and Seek - захватывающий приквел к Hello Neighbor, раскрывающий трагическую историю семьи Соседа. Окунитесь в атмосферу стелс-хоррора и раскройте тайну пропажи члена семьи. Игра поясняет события, предшествующие оригинальной части леденящего душу хита Hello Neighbor.",
+            "versionDate": "2022-10-12T23:55:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/a0/37/a3a03759-ac7f-981c-7413-23f5a41c7c2f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/492x0w.png",
+            "size":  947283558,
+        },
+
+
+        {
+            "name": "Hello Neighbor 2 Pre Alpha",
+            "version": "1.1",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Добро пожаловать в Hello Guest! Это игра в жанре триллер с элементами стелс-хоррора про самообучающийся ИИ. По ночам вы работаете в парке развлечений «Золотое яблоко», где во тьме скрывается таинственное существо.",
+            "versionDate": "2022-10-16T21:00:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/bb/db/41/bbdb41e5-ebe0-a1b3-b7db-e3a4eeff51e0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  908528189,
+        },
+
+
+        {
+            "name": "Transistor",
+            "version": "2.0",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​ОТ СОЗДАТЕЛЕЙ BASTION: Откройте для себя уникальную научно-фантастическую игру в жанре Action RPG! Путешествуйте по завораживающему футуристическому городу, защищая свою жизнь при помощи невероятного оружия неизвестного происхождения.",
+            "versionDate": "2022-10-15T00:50:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/28/35/d2/2835d23a-ca67-8c72-2e1b-a5069b8be8ef/AppIcon-1x_U007emarketing-85-220-5.png/492x0w.png",
+            "size":  2040109466,
+        },
+
+
+
+        {
+            "name": "Alien: Isolation",
+            "version": "1.2.2",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Станция «Севастополь», никто не отвечает на сигналы, звонки и другие факторы из жизни. Пора разгадать все тайны экипажа, узнать что находится внутри сооружения и попытаться уничтожить это раз и навсегда.",
+            "versionDate": "2022-09-17T16:00:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/90/e8/6d90e8ed-f4d9-a967-779d-8a61b960ff71/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+            "size":  1964947538,
+        },
+
+
+        {
+            "name": "GRID: Autosport",
+            "version": "1.9.3",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​Поверните ключ зажигания и начните профессиональную карьеру гонщика в популярной игре категории ААА от студии Codemasters.",
+            "versionDate": "2022-09-18T01:10:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/76/87/7c/76877cec-b5ff-a8ae-dffa-f0710b23bc67/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+            "size":  4005057004,
+        },
+
+
+        {
+            "name": "LEGO Star Wars The Complete Saga",
+            "version": "2.2.0",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​Взломана на эпизоды! Что бы их «купить», нажмите купить, от ввода Apple ID откажитесь! \n\nLego Star Wars: The Complete Saga объединяет в себе все, что могли предложить игрокам первые две части серии.",
+            "versionDate": "2022-09-18T22:05:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/eb/ff34ebb4-318e-9d1c-d7f3-501e24e843f5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size":  796183757,
+        },
+
+
+        {
+            "name": "Beholder",
+            "version": "2.5",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​Исправлен вылет на сертификате, а так же взломано DLC! Для получения DLC «покупаем» его и отказываемся от ввода Apple ID! \n\nЗахватывающая приключенческая игра, где вы будете выступать шпионом у государства.",
+            "versionDate": "2022-09-18T22:30:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/24/f6/cd/24f6cd6b-c972-493b-f3ee-ffd7251b63bb/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.png",
+            "size":  399926886,
+        },
+
+
+        {
+            "name": "Beholder 2",
+            "version": "1.7.15902",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Продолжение интересной и оригинальной стратегии, завоевавшей симпатии огромного числа пользователей. Участник снова будет играть за главного героя, который работает в некоем важном государственном учреждении.",
+            "versionDate": "2022-09-18T22:30:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/5c/9c/f75c9ca4-6c88-0c56-08a4-858cad9901aa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  1409391002,
+        },
+
+
+       {
+            "name": "Dead Cells",
+            "version": "2.7.8",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​Открыты все DLC! Для их активации нажимаем «купить» и отменяем ввод Apple ID! \n\nСмерть – это только начало пути. \n\nИспытайте себя в роли подопытного неудавшегося алхимического эксперимента и исследуйте постоянно меняющийся и разрастающийся замок в поисках разгадок всех тайн зловещего острова! Конечно, при условии, что сможете одолеть его стражей на вашем пути...",
+            "versionDate": "2022-09-19T00:30:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/0f/53/e60f53cb-8e04-b2c6-895c-b3be0de12d52/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  833408205,
+        },
+
+
+       {
+            "name": "Streets of Rage 4",
+            "version": "1.6",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​​​Взломано DLC! Для его активации «покупаем» его и отказываемся от ввода Apple ID! \n\nStreets of Rage 4 — это новая глава серии Streets of Rage. Это ретро-beat'em up с рисовкой в стиле комиксов и улучшенными игровыми механиками.",
+            "versionDate": "2022-09-19T00:35:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/be/4b/10/be4b10c9-20df-484a-ffd4-6c5370820351/AppIcons-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size":  1632087572,
+        },
+
+
+       {
+            "name": "Geometry Dash",
+            "version": "2.11",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​​​​​Будьте готовы к практически непроходимым испытаниям в мире Geometry Dash. Отточите свои навыки прыжков, полетов и переворотов на опасной дороге с остроконечными препятствиями! \n\nПростая One Touch игра с большим количеством уровней, которые не оставят вас равнодушными на протяжении нескольких часов!",
+            "versionDate": "2022-09-20T00:55:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/b6/5d/7b/b65d7be5-e14a-433f-bb53-8cc2407e6199/AppIcon-1x_U007emarketing-85-220-9.png/492x0w.png",
+            "size":  76441190,
+        },
+
+
+        {
+            "name": "Forager",
+            "version": "1.0.5",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​​​​Исправлен вылет на сертификате, а так же бесконечное подключение к облаку! \n\n2D-игра с открытым миром, вдохновленная механикой исследования, фермерства и создания предметов.",
+            "versionDate": "2022-09-20T20:40:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/7c/63/09/7c6309c6-5636-a0d9-5b78-848118a65dc6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  141243187,
+        },
+
+
+        {
+            "name": "Bright Memory Mobile",
+            "version": "1.26",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​​​​Исправлен вылет на сертификате! \n\nПриключенческий экшен на iOS, где вы будете управлять главной героиней Шелии. Возьмите под свой контроль Шелии и проведите ее через многочисленные и кровожадные битвы с монстрами и чудовищами.",
+            "versionDate": "2022-09-20T22:55:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/20/06/1f/20061f19-e5d7-d6ad-b810-22b75fa1c584/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/492x0w.png",
+            "size":  898524774,
+        },
+
+
+        {
+            "name": "Thumper",
+            "version": "1.27",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах! \n\nМузыкальная игра с неистовым ритмом: классический экшн, стремительные скорости и жесткая энергетика.",
+            "versionDate": "2022-09-21T22:00:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/a5/f1/11/a5f111ea-c521-2ff1-6a43-fac0616f0460/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  178991923,
+        },
+
+
+        {
+            "name": "Northgard",
+            "version": "1.7.5",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах! Так же добавлен взлом! «Покупаем» то, что нас интересует и отказываемся от ввода Apple ID! \n\nСтратегия в духе скандинавских мифов. Станьте вождем клана викингов и подчините себе новые земли.",
+            "versionDate": "2022-09-21T22:00:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/94/26/62/9426620c-3f5c-903a-dfe5-7649306f1981/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size":  674129510,
+        },
+
+
+        {
+            "name": "Monster Hunter Stories",
+            "version": "1.0.05",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах! \n\nПриключенческий экшен RPG с пошаговыми боями для iOS.",
+            "versionDate": "2022-09-21T22:05:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/41/c8/f841c803-0596-e2c5-cafb-dc0d3962b88b/iOSAppIcon-1x_U007emarketing-0-9-85-220.png/492x0w.png",
+            "size":  2007897211,
+        },
+
+
+        {
+            "name": "Apple Knight",
+            "version": "2.2.8",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах, а так же взломаны покупки! Для активации «покупаем» то, что нас интересует и отказываемся от ввода Apple ID! \n\nОтправляйтесь навстречу приключениям в новом ретро-платформере.",
+            "versionDate": "2022-09-21T22:10:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/df/5f/e9df5f3a-0ee6-5d36-7d6d-19e62429bbe6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  58091110,
+        },
+
+
+        {
+            "name": "Batman - The Telltale Series | Hack",
+            "version": "1.9",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​Взлом на эпизоды! «Покупаем» их и наслаждаемся игрой! \n\nВ этой жесткой и полной насилия истории от отмеченных наградами создателей The Walking Dead (компания A Telltale Games Series) вы обнаружите то, что разрушит как мир Bruce Wayne, так и уже пошатнувшийся уклад коррумпированного Gotham City.",
+            "versionDate": "2022-09-24T00:00:00+0300",
+            "iconURL": "https://ds-blobs-4.cdn.devapps.ru/8767743.png",
+            "size":  850814566,
+        },
+
+
+        {
+            "name": "Oceanhorn",
+            "version": "3.4",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​Исправлен вылет на сертификате! \n\nТы просыпаешься и находишь письмо от отца. Он ушёл… Единственные зацепки для разгадки тайны — его старый дневник и загадочное ожерелье. Что же произошло?",
+            "versionDate": "2022-09-24T00:24:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/62/87/c462872e-68b5-8b99-c9da-acc085395035/AppIconIOS-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/492x0w.png",
+            "size":  247568794,
+        },
+
+
+        {
+            "name": "Progressbar 95",
+            "version": "3.4",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах и взломаны покупки! «Покупаем» то, что нас интересует и отказываемся от Apple ID! \n\nВам просто следует наполнить прогрессбар, управляя им одним пальцем и делая это быстро. Это гораздо сложнее, чем кажется на первый взгляд! Убедитесь сами!",
+            "versionDate": "2022-09-24T16:30:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/fc/e4/b3fce475-6df4-70fa-4bed-d1dcf850a163/AppIcon-1x_U007emarketing-0-7-85-220.png/492x0w.png",
+            "size":  105591603,
+        },
+
+
+        {
+            "name": "Traffix",
+            "version": "4.2",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах! \n\nПростые правила и минималистичность – Traffix покорит ваше сердце и ум! На дорогах творится хаос, стресс и суета, особенно в больших городах, таких как Париж, Токио, Москва или Лас-Вегас. Помните об этом и управляйте светофорами, чтобы водители спокойно перемещались по городу.",
+            "versionDate": "2022-09-24T16:30:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/04/f0/14/04f01451-27ad-fb58-efc0-02ae56b71a19/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/492x0w.png",
+            "size":  97936998,
+        },
+
+
+        {
+            "name": "The Binding of Isaac",
+            "version": "1.1",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "The Binding of Isaac Rebirth – roguelike аркада с видом сверху, в которой весь игровой процесс копирует классический устаревший консольный жанр со всеми его атрибутами (сердечками вместо жизней, примитивной графикой и прочим).",
+            "versionDate": "2022-09-24T16:35:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/61/a0/79/61a07964-1a56-3a6e-f575-701c24510799/pr_source.png/492x0w.png",
+            "size":  318976819,
+        },
+
+
+        {
+            "name": "Star Wars Knights of the Old Republic",
+            "version": "1.2.7",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Версия со встроенным русификатором! \n\nВыбери свой путь! Все произошло за четыре тысячи лет до появления Галактической Империи когда сотни Рыцарей Джедаев ринулись в битву против безжалостных Ситхов. Вы последняя надежда Ордена Джедаев.",
+            "versionDate": "2022-09-24T16:40:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/b6/f9/5fb6f9f5-90c3-d3d7-6a29-693e0e9917b2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/492x0w.png",
+            "size":  2083059138,
+        },
+
+
+        {
+            "name": "Walking Dead RUS + Unlock Episode",
+            "version": "1.10",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Встроен русификатор и все эпизоды! Для работы русификатора ОТКЛЮЧАЕМ интернет при входе, до появления главного меню, иначе все будет на английском! \n\nВ этой истории, вы Ли Эверетта, человек, которому дан второй шанс на жизнь в мире пострадавшем от нежити.",
+            "versionDate": "2022-09-24T16:45:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/82/5d/86/825d868b-95e9-e4e0-c36e-79d9c23641d3/mzl.rixozeyg.png/492x0w.png",
+            "size":  2845415834,
+        },
+
+
+        {
+            "name": "Smash Hit | Hack",
+            "version": "1.4.2",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взломана на полную версию! Для активации «покупаем» ее и отказываемся от ввода Apple ID! \n\nОтправляйтесь в сюрреалистичное путешествие по другому измерению, перемещайтесь в гармонии с музыкой и звуками и сбивайте все на своем пути!",
+            "versionDate": "2022-09-25T14:00:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/2d/a0/ee/2da0ee20-ed40-9061-c988-e64fc1332949/AppIcon-1x_U007emarketing-0-85-220-0-9.png/492x0w.png",
+            "size":  68367155,
+        },
+
+
+        {
+            "name": "This is The Police",
+            "version": "1.1",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Руководите полицейским участком и его сотрудниками, реагируйте на вызовы и расследуйте преступления в городе, пылающем в хаосе.",
+            "versionDate": "2022-10-01T19:10:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/ef/a5/b0/efa5b01f-4ad0-7069-aca2-6c26c436c3a5/AppIcon-0-1x_U007emarketing-0-85-220-9.png/492x0w.png",
+            "size":  815162982,
+        },
+
+
+        {
+            "name": "This is The Police 2",
+            "version": "1.0.18",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Трактуйте законы как вам вздумается в This is The Police 2, продолжении знаменитой нуар-драмы!",
+            "versionDate": "2022-09-25T16:51:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/c0/2a/97c02aca-aaee-7631-5d5f-3ab2d732ba2b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/492x0w.png",
+            "size":  943508684,
+        },
+
+
+        {
+            "name": "20 Minutes Till Dawn",
+            "version": "2.0.30",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Работает на сертификатах! \n\nОтстреливайся от постоянно наступающей толпы Лавкравтовских монстров.",
+            "versionDate": "2022-09-25T22:20:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/98/27/13/9827132a-0dbe-0fb7-e913-1eda246a3d23/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  68262298,
+        },
+
+
+        {
+            "name": "Петька и Василий Иванович",
+            "version": "2.4",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Петька и Василий Иванович спасают Галактику: Перезагрузка - это обновленная версия одного из лучших юмористических квестов нашей страны, который вышел в далеком 1998 году и заслужил поистине всенародную любовь!",
+            "versionDate": "2022-09-26T19:00:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/ec/3a/55/ec3a557b-0296-e616-8f74-914706a3e60d/mzl.apwlgxhh.png/492x0w.png",
+            "size":  2040109466,
+        },
+
+
+        {
+            "name": "Петька и Василий Иванович 2",
+            "version": "2.8",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Россия. 1917-й год. Раненый комдив Чапаев пытается перебраться через реку Урал в то время, как вражеская пуля настигает его. Казалось бы, надежды на спасение уже нет. Но внезапно транспортный луч из космоса доставляет Василия Ивановича на корабль инопланетян.",
+            "versionDate": "2022-09-26T19:00:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ef/77/f9/ef77f9c5-324d-8b2a-68bf-6d671634bbca/mzl.egoezxad.jpg/492x0w.jpg",
+            "size":  619989824,
+        },
+
+
+        {
+            "name": "Петька и Василий Иванович 3",
+            "version": "1.8",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Безответственное обращение Петьки и ВИЧ с ценным механизмом - машиной времени - поставило мир под угрозу катастрофы: в Америку попала вся деревня Гадюкино, а это грозит необратимыми последствиями вселенского масштаба.",
+            "versionDate": "2022-09-26T19:05:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/09/d8/6009d864-d21d-c9a6-062d-8299a1019299/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/492x0w.png",
+            "size":  1385126953,
+        },
+
+
+        {
+            "name": "Братья Пилоты",
+            "version": "1.7",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Такого неслыханного нахальства город Бердичев не видел давно: средь черной ночи из зоопарка был похищен бесценный, редкий полосатый слон Балдахин. Главным подозреваемым в деле становится его бывший владелец, страшный злодей Карбофос.",
+            "versionDate": "2022-09-26T21:00:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/c5/ed/7f/c5ed7f90-4f89-5802-28a1-3ee240e74545/mzl.zqmeaucx.png/492x0w.png",
+            "size":  86612378,
+        },
+
+
+        {
+            "name": "Братья Пилоты 2",
+            "version": "1.6",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Братьям Пилотам предстоит новое увлекательное дело. В беду попал их друг и соратник кот Мышьяк.",
+            "versionDate": "2022-09-26T21:00:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/aa/18/1f/aa181f1b-858a-7fb3-eee0-60136ffced92/mzl.waysnhfa.png/492x0w.png",
+            "size":  62180557,
+        },
+
+
+        {
+            "name": "Братья Пилоты 3",
+            "version": "1.4",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "На дворе – весна 1958 года. Неутомимые сыщики и искатели приключений, Братья-Пилоты узнают из газеты о том, что на далеком острове Тасмания стремительно уменьшается популяция голубых полосатых слонов.",
+            "versionDate": "2022-09-26T21:00:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/81/86/c1/8186c1f9-f568-ab25-68c7-0b26fc708673/pr_source.png/492x0w.png",
+            "size":  150051226,
+        },
+
+
+        {
+            "name": "The Amazing Spider Man 2",
+            "version": "1.3.1",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "При первом запуске ОБЯЗАТЕЛЬНО отключите интернет. Если игра не устанавливается, установите с помощью ESign! \n\nЗадайте жару преступности в роли Человека-Паука в динамичной игре с открытым миром. Вас ждут незабываемые приключения!",
+            "versionDate": "2022-09-26T21:30:00+0300",
+            "iconURL": "https://ds-blobs-2.cdn.devapps.ru/4466913.png",
+            "size":  769581384,
+        },
+
+
+        {
+            "name": "MudRunner + DLC",
+            "version": "1.4.3",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Для установки DLC необходим ПК и iMazing(нужная информация находиться на канале)! \n\nMudRunner, знаменитая серия гонок по бездорожью с многомиллионным тиражом, впервые появится на мобильных устройствах!",
+            "versionDate": "2022-09-28T21:05:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/e3/a2/5d/e3a25df0-304c-d64f-e189-f6b2597f6542/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size":  507405926,
+        },
+
+
+        {
+            "name": "Hoosegow | Hack",
+            "version": "1.4.64",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взлом на покупки! Покупаем нужную нам валюту и отказываемся от ввода Apple ID! \n\nТекстовый симулятор заключённого в котором игроки на старте получают случайно сгенерированного персонажа, которому предстоит отбывать срок соответствующей выбранной заранее сложности.",
+            "versionDate": "2022-09-30T02:15:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/60/ca/bc60ca65-3891-2d9c-7f2f-f9e156d6cd45/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  106220749,
+        },
+
+
+        {
+            "name": "Hill Climb | Hack",
+            "version": "1.54.2",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взломан на донат! «Покупаем» нужный нам товар и отказываемся от ввода Apple ID! \n\nПознакомьтесь с Ньютоном Биллом, молодым подающим надежды гонщиком. Он собирается отправиться в путешествие по местам, еще не знающим отпечатков автомобильных колес.",
+            "versionDate": "2022-09-28T21:45:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/5d/5e/fe5d5ef0-ab2d-cd30-7f8d-49ba20d2f4da/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  87241523,
+        },
+
+
+        {
+            "name": "Hill Climb 2 | Hack",
+            "version": "1.51.0",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взлом на покупки! Работают покупки во внутриигровой валюте (не в реальной), даже если у вас меньше нужной суммы! \n\nСиквел к самой затягивающей и самой весёлой игре на вождение, основанной на реальной физике!",
+            "versionDate": "2022-09-28T21:50:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/4d/3c/cd4d3c90-3424-b901-9f57-0336c94e56d1/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  183710515,
+        },
+
+
+        {
+            "name": "Red Ball 4 | Hack",
+            "version": "1.5",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взломана полная версию! «Покупаем» и отказываемся от ввода Apple ID!\n\nПростой, но от этого не менее интересный платформер...",
+            "versionDate": "2022-09-29T17:48:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/6c/2f/49/6c2f49a9-13f2-57f0-46bb-da338809b0d6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size":  81369497,
+        },
+
+
+        {
+            "name": "GRIS",
+            "version": "1.5",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "GRIS - медитативная и умная игра, в которой вам не нужно бояться смерти, нервного срыва или гнетущей атмосферы опасности. Вас ждет тщательно продуманный и анимированный мир, а ваши уши приласкает оригинальный саундтрек.",
+            "versionDate": "2022-09-30T02:00:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/e3/ef/a7/e3efa728-6f4d-17b6-f6ab-7a4575beea6f/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  1202590843,
+        },
+
+
+        {
+            "name": "Shadow Fight 2 | Hack",
+            "version": "2.22.0",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взлом на валюту! Теперь взлом происходит автоматически!\n\nЗубодробительная смесь файтинга и РПГ. Вы не просто деретесь в лучших традициях файтингов, но и одеваете своего персонажа, покупаете оружие, повышаете параметры и изучаете новые способности и удары.",
+            "versionDate": "2022-10-16T20:11:00+0300",
+            "iconURL": "https://i.ibb.co/rMCZPCP/651095-AD-5-C0-C-46-D7-92-E5-6-C897560-FF37.jpg",
+            "size":  163682713,
+        },
+
+
+        {
+            "name": "Horizon Chase | Hack",
+            "version": "2.5.2",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Взломан магазин! «Покупаем» то, что нужно и отказываемся от ввода Apple ID! \n\nАтмосферная ретро-гоночная игра Aquiris Game Studio.",
+            "versionDate": "2022-10-01T20:51:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/05/23/22/052322a2-1c0f-8568-766c-83da9b9d1212/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size":  428720783,
+        },
+
+
+        {
+            "name": "Punch Club",
+            "version": "1.37",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "​​Тренируйся, найди свою любовь и набей крокодилу зеленую рожу. Стань лучшим бойцом и раскрой тайну жестокого убийства своего отца в этом стратегическо-приключенческом тайкуне бойца.",
+            "versionDate": "2022-10-02T23:55:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9c/62/0b/9c620bf0-6c78-bb2c-d522-be9043865b32/AppIcon-0-1x_U007emarketing-0-85-220-7.png/492x0w.png",
+            "size":  308176486,
+        },
+
+
+        {
+            "name": "Despot’s Game",
+            "version": "1.0.0",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Для установки полной версии необходимая информация находится на канале! \n\n​​Рогалик, автобой, глубокая прокачка, неоправданная жестокость, бретцели!",
+            "versionDate": "2022-10-03T01:15:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/01/38/25/01382573-511e-0671-5c89-e26a00c7d20e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size":  347498086,
+        },
+
+
+        {
+            "name": "Total War: Mediaval II",
+            "version": "1.2.3",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "Под королевским стягом огнем и мечом насаждайте просвещение средневековому миру в этой классической игре Total War с битвами в реальном времени и пошаговой стратегией.",
+            "versionDate": "2022-10-03T19:45:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/a8/2e/b9a82e04-cd69-f54e-28d8-78eb942aa299/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size":  1299227607,
+        },
+
+
+        {
+            "name": "Unc0ver",
+            "version": "8.0.2",
+            "downloadURL": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+            "localizedDescription": "❗️JailBreak для iOS 11.0-14.8. \n\nA12-A13 iOS 14.6-14.8. \n<A11 iOS <14.5",
+            "versionDate": "2022-10-23T21:20:00+0300",
+            "iconURL": "https://i.ibb.co/Rj6Z6Br/F0-CB1-C89-75-C0-441-A-B746-B5-A59565494-A.jpg",
+            "size":  54525952,
+        },
+
+       
+
+     ]
+
+
+
+
+}
